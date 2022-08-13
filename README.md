@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marianne-K
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning R programming
+- 👀 I’m interested in health Coaching and data analytics
+- 🌱 I’m currently learning Exploratory Data Analysis
 - 💞️ I’m looking to collaborate on my capstone project ideas
 - 📫 How to reach me marianne.kemp.ihc@gmail.com
 
