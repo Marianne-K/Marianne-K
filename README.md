@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marianne-K
-- 👀 I’m interested in health Coaching and data analytics
-- 🌱 I’m currently learning Exploratory Data Analysis
-- 💞️ I’m looking to collaborate on my capstone project ideas
+- 👀 I’m interested in Health Coaching and Data Analytics
+- 🌱 I’m currently learning Exploratory Data Analysis and Hypothesis Testing.
+- 💞️ I’m a National Board Certified Health and Wellness Coach looking to encorporate data health biometrics that track client behaviors and risk factors into my practice
 - 📫 How to reach me marianne.kemp.ihc@gmail.com
 
 <!---
